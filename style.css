@@ -1,0 +1,18 @@
+.container {
+    font-family: 'Minecraftia';
+    display: flex;
+}
+
+.canvasContainer {
+    margin-top: 10px;
+}
+
+.instructions {
+    margin-left: 20px;
+}
+
+body {
+    background-image: url(home_bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
